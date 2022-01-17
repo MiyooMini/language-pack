@@ -1,0 +1,21 @@
+{
+	"88":	"ABRIR",
+	"89":	"VOLTAR",
+	"90":	"NAV",
+	"91":	"MENU",
+	"92":	"Continuar",
+	"93":	"Salvar",
+	"94":	"Carregar",
+	"95":	"Volume",
+	"96":	"Sair do jogo",
+	"97":	"Gravar %d/%d",
+	"98":	"Vazio",
+	"99":	"Sem miniaturas",
+	"100":	"O carregamento falhou",
+	"101":	"O salvamento falhou",
+	"102":	"Slot%d salvo",
+	"103":  "Tela cheia",
+	"104":  "Liga",
+	"105":  "Desliga",
+	"106":  "Menu nativo"
+}
